@@ -1,0 +1,39 @@
+_repo: Pompeijin-viimeiset-p-iv-t_26786
+_version: 0.1.0
+alternative_title: The Last Days of Pompeii. Finnish
+contributor:
+  translator:
+    agent_name: Kivimäki, Urho
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '32243'
+    url: http://www.gutenberg.org/2009/agents/32243
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_issued: '2008-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26786'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pompeii (Extinct city) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: Pompeijin viimeiset päivät
+url: http://www.gutenberg.org/ebooks/26786
