@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/761
     wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26786#Pompeijin-viimeiset-p-iv-t
 gutenberg_issued: '2008-10-06'
 gutenberg_type: Text
 identifiers:
